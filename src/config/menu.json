@@ -13,6 +13,14 @@
       "url": "/elements"
     },
     {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,

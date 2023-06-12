@@ -1,127 +1,100 @@
-# Astroship - Astro Starter Template 🛸
+<h1 align=center>Astro + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
 
-Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS.
+<p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
 
-This Free Template is sponsored by [Web3Templates](https://web3templates.com)
+<p align=center> Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
 
-## Live Demo
+<h2 align="center"> <a target="_blank" href="https://astroplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-astroplate-netlify-app/yzx3foum3w?form_factor=desktop">Page Speed (100%)🚀</a>
+</h2>
 
-### [https://astroship.web3templates.com/](https://astroship.web3templates.com/)
+<p align=center>
+  <a href="https://github.com/withastro/astro/releases/tag/astro%402.0.11" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=ASTRO&message=2.0&color=000&logo=astro" />
+  </a>
 
-### [Download Astroship Template](https://web3templates.com/templates/astroship-starter-website-template-for-astro)
+  <a href="https://github.com/zeon-studio/astroplate/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zeon-studio/astroplate" alt="license"></a>
 
-## Deploy this template
+  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/astroplate" alt="code size">
 
-You can instantly clone this to your GitHub and deploy the site by clicking the below buttons to deploy to your chosen providers!
+  <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
+</p>
 
-Click here to deploy on Vercel:
+## 📌 Key Features
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2Fastroship&project-name=astroship&repository-name=astroship&demo-title=Astroship%20-%20Astro%20Starter%20Template&demo-description=Astroship%20is%20a%20starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20landing%20pages.%20Built%20with%20Astro%2C%20TailwindCSS&demo-url=https%3A%2F%2Fastroship.web3templates.com%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
+- 👥 Multi-Authors
+- 🎯 Similar Posts Suggestion
+- 🔍 Search Functionality
+- 🌑 Dark Mode
+- 🏷️ Tags & Categories
+- 🔗 Netlify setting pre-configured
+- 📞 Support contact form
+- 📱 Fully responsive
+- 📝 Write and update content in Markdown / MDX
+- 💬 Disqus Comment
+- 🔳 Syntax Highlighting
 
-Click here to deploy on Netlify:
+### 📄 15+ Pre-designed Pages
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/astroship)
+- 🏠 Homepage
+- 👤 About
+- 📞 Contact
+- 👥 Authors
+- 👤 Author Single
+- 📝 Blog
+- 📝 Blog Single
+- 🚫 Custom 404
+- 💡 Elements
+- 📄 Privacy Policy
+- 🏷️ Tags
+- 🏷️ Tag Single
+- 🗂️ Categories
+- 🗂️ Category Single
+- 🔍 Search
 
-## Preview
+## 🔗 Integrations
 
-![image](https://user-images.githubusercontent.com/1884712/200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
+- astro/react
+- astro/sitemap
+- astro/tailwind
 
-### Pagespeed Score
+## 🚀 Getting Started
 
-[![pagespeed](https://user-images.githubusercontent.com/1884712/210250214-7aa98167-7993-4b90-8138-326b8fa0c223.png)](https://pagespeed.web.dev/report?url=https%3A%2F%2Fastroship.web3templates.com%2F)
+### 📦 Dependencies
 
+- astro 2.3+
+- node v18+
+- npm v9.5+
+- tailwind v3.3+
 
-## Installation
+### 👉 Development Command
 
-If you are reading this on github, you can click on the "Use this template" button above to create a new repository from astroship to your account. Then you can do a `git clone` to clone it to your local system.
-
-Alternatively, you can clone the project directly from this repo to your local system.
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/surjithctly/astroship.git myProjectName
-# or
-git clone https://github.com/surjithctly/astroship.git .
 ```
-
-The `.` will clone it to the current directory so make sure you are inside your project folder first.
-
-### 2. Install Dependencies
-
-```bash
-npm install
-# or
-yarn install
-# or (recommended)
-pnpm install
-```
-
-### 3. Start development Server
-
-```bash
 npm run dev
-# or
-yarn dev
-# or (recommended)
-pnpm dev
 ```
 
-### Preview & Build
+### 👉 Build Command
 
-```bash
-npm run preview
+```
 npm run build
-# or
-yarn preview
-yarn build
-# or (recommended)
-pnpm preview
-pnpm build
 ```
 
-We recommend using [pnpm](https://pnpm.io/) to save disk space on your computer.
+<!-- reporting issue -->
+## 🐞 Reporting Issues
 
-### Other Commands
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/astroplate/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/astroplate/issues).
 
-```bash
-pnpm astro ...
-pnpm astro add
-pnpm astro --help
-```
+<!-- licence -->
+## 📝 License
 
-## Project Structure
+Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
-Inside of your Astro project, you'll see the following folders and files:
+**Code License:** Released under the [MIT](https://github.comzeon-studio/astroplate/blob/main/LICENSE) license.
 
-```
-/
-├── public/
-│   └── ...
-├── src/
-│   ├── components/
-│   │   └── ...
-│   ├── layouts/
-│   │   └── ...
-│   └── pages/
-│       └── ...
-└── package.json
-```
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 💻 Need Custom Development Services?
 
-Any static assets, like images, can be placed in the `public/` directory.
-
-## TailwindCSS
-
-TailwindCSS is already configured in this repo, so you can start using it without any installation.
-
-## Credits
-
-[Hero Illustration](https://www.figma.com/community/file/1108400791662599811) by [Streamline](https://www.streamlinehq.com/)
-
-## 👀 Want to learn more?
-
-Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
-
-[![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).

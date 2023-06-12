@@ -1,39 +1,53 @@
-// 1. Import utilities from `astro:content`
-import { z, defineCollection } from 'astro:content';
+import { defineCollection, z } from "astro:content";
 
-// 2. Define your collection(s)
+// Post collection schema
 const blogCollection = defineCollection({
   schema: z.object({
-    draft: z.boolean(),
     title: z.string(),
-    snippet: z.string(),
-    image: z.object({
-      src: z.string(),
-      alt: z.string(),
-    }),
-    publishDate: z.string().transform(str => new Date(str)),
-    author: z.string().default('Astroship'),
-    category: z.string(),
-    tags: z.array(z.string()),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    author: z.string().default("Admin"),
+    categories: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
   }),
 });
 
-const teamCollection = defineCollection({
+// Author collection schema
+const authorsCollection = defineCollection({
   schema: z.object({
-    draft: z.boolean(),
-    name: z.string(),
     title: z.string(),
-    avatar: z.object({
-      src: z.string(),
-      alt: z.string(),
-    }),
-    publishDate: z.string().transform(str => new Date(str)),
+    meta_title: z.string().optional(),
+    email: z.string().optional(),
+    image: z.string().optional(),
+    description: z.string().optional(),
+    social: z
+      .object({
+        facebook: z.string().optional(),
+        twitter: z.string().optional(),
+        instagram: z.string().optional(),
+      })
+      .optional(),
+    draft: z.boolean().optional(),
   }),
 });
 
-// 3. Export a single `collections` object to register your collection(s)
-//    This key should match your collection directory name in "src/content"
+// Pages collection schema
+const pagesCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string().optional(),
+    draft: z.boolean().optional(),
+  }),
+});
+
+// Export collections
 export const collections = {
-  'blog': blogCollection,
-  'team': teamCollection,
+  blog: blogCollection,
+  authors: authorsCollection,
+  pages: pagesCollection,
 };

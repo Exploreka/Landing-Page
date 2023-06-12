@@ -6,7 +6,7 @@ type Pagination = {
 };
 const { section, currentPage = 1, totalPages = 1 }: Pagination = Astro.props;
 
-const indexPageLink = currentPage === 2;
+const indexPageLink = currentPage === 4;
 const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage!;
 

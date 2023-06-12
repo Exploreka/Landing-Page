@@ -13,6 +13,10 @@
       "url": "/elements"
     },
     {
+      "name": "Teams",
+      "url": "/authors"
+    },
+    {
       "name": "Blog",
       "url": "/blog"
     },

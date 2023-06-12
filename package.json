@@ -1,12 +1,13 @@
 {
-  "name": "astroplate",
+  "name": "exploreka",
   "version": "1.2.4",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "description": "Exploreka site",
+  "author": "Exploreka Team",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
     "format": "prettier -w ./src",
     "generate-json": "node scripts/jsonGenerator.js",

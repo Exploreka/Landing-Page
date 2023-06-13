@@ -4,7 +4,7 @@
     "base_url": "https://www.exploreka.net",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo-exploreka.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
@@ -41,7 +41,7 @@
 
   "metadata": {
     "meta_author": "exploreka",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_image": "/images/logo-exploreka.png",
+    "meta_description": "Exploreka: Expand Your Exploration!"
   }
 }

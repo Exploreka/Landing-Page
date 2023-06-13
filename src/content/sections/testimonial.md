@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Testimonials"
+description: "Yuk mari dengar beberapa komentar dari pengguna Exploreka"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Ahmad Rizky"
+    designation: "Anak Senja"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Exploreka telah mengubah caraku dalam menjelajahi Indonesia. Aku menemukan *hidden gems* di daerah tempat tinggalku"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Joko Santoso"
+    designation: "Karyawan Swasta"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Aku mendapatkan rekomendasi paket wisata keluarga yang cocok dan sesuai dengan preferensiku."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Dzawin Nur"
+    designation: "Pecinta Alam"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Fitur 360 virtual tour di Exploreka sangat keren! Aku dapat melihat tempat-tempat indah tanpa harus pergi jauh."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Fitriana"
+    designation: "Mahasiswa"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Dengan Exploreka, Aku menemukan paket wisata yang terjangkau dan berkualitas. Pengalaman yang cukup luar biasa!"
 ---

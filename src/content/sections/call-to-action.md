@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+title: "Siap menjelajahi wisata di Indonesia?"
+image: "/images/illustration5.png"
+description: "Unduh Exploreka sekarang dan temukan pesona Indonesia dalam genggaman Anda. Liburan impianmu hanya sejauh satu klik!"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Download Exploreka"
+  link: ""
 ---

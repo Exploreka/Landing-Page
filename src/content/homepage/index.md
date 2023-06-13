@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Expand Your Exploration!"
-  content: "Platform kami menyediakan berbagai layanan untuk kebutuhan para _Traveller_ dalam berwisata."
-  image: "/images/banner.png"
+  content: "Platform kami menyediakan berbagai layanan untuk kebutuhan para Traveller dalam berwisata."
+  image: "/images/hero-banner.png"
   button:
     enable: true
     label: "Download Exploreka"
@@ -39,9 +39,9 @@ features:
     image: "/images/marketplace.png"
     content: "Telusuri berbagai pilihan paket wisata dari mitra perjalanan tepercaya dengan harga terjangkau dan fasilitas berkualitas."
     bulletpoints:
-      - "Temukan ribuan destinasi wisata menakjubkan di seluruh Indonesia."
-      - "Dapatkan informasi terperinci tentang objek wisata, fasilitas, dan tips perjalanan."
-      - "Jelajahi keunikan budaya, sejarah, dan keindahan alam Indonesia."
+      - "Temukan paket wisata terbaik dari agen perjalanan tepercaya."
+      - "Telusuri berbagai pilihan paket dengan harga terjangkau dan fasilitas berkualitas."
+      - "Pesan langsung melalui aplikasi dan nikmati kemudahan dalam merencanakan perjalanan."
     button:
       enable: true
       label: "Download Exploreka"

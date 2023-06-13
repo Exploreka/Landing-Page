@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Testimonials"
+title: "Apa kata mereka?"
 description: "Yuk mari dengar beberapa komentar dari pengguna Exploreka"
 
 # Testimonials

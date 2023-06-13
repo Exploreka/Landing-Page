@@ -6,10 +6,6 @@
     },
     {
       "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Teams",
       "url": "/authors"
     },
     {

@@ -1,7 +1,7 @@
 ---
-title: Sendhy Ramadhinata
+title: M. A. Sendhy Ramadhinata
 # email: johndoe@email.com
-image: "/images/team/sendhy.png"
+image: "/images/team/sendhyrama.png"
 description: this is metsendhya description
 social:
   facebook: https://www.facebook.com/

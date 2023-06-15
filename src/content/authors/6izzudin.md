@@ -1,7 +1,7 @@
 ---
 title: Muhammad I'zzudin
 # email: williamjacob@email.com
-image: "/images/avatar.png"
+image: "/images/team/izzudin.png"
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

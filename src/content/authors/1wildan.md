@@ -1,7 +1,7 @@
 ---
 title: Wildan Fatahillah Akbar
 # email: samwilson@email.com
-image: "/images/avatar.png"
+image: "/images/team/wildan.png"
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

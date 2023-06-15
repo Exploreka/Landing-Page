@@ -29,7 +29,7 @@ npm run dev
 
 <!-- licence -->
 ## 📝 License
-- Copyright (c) 2023 - Present, Designed & Developed by [Exploreka Team](https://www.exploreka.net/about)
+- Copyright (c) 2023 - Present, Designed & Developed by [Exploreka Team](https://www.exploreka.net/authors)
 - **Code License:** Released under the MIT license.
 
 ## 👨‍💻 Contributors

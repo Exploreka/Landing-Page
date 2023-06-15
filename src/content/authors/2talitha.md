@@ -1,7 +1,7 @@
 ---
 title: Talitha Alda Zafirah Dewi
 # email: williamjacob@email.com
-image: "/images/avatar.png"
+image: "/images/team/talitha.png"
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

@@ -1,7 +1,7 @@
 ---
 title: Ardian Arif Wahyudi
 # email: samwilson@email.com
-image: "/images/avatar.png"
+image: "/images/team/ardian.png"
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

@@ -1,7 +1,7 @@
 ---
 title: Hildan Mulyo Hermawan
 # email: johndoe@email.com
-image: "/images/avatar.png"
+image: "/images/team/hildan.png"
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

@@ -31,7 +31,6 @@ npm run dev
 ## 📝 License
 - Copyright (c) 2023 - Present, Designed & Developed by [Exploreka Team](https://www.exploreka.net/about)
 - **Code License:** Released under the MIT license.
-- **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
 ## 👨‍💻 Contributors
 - [M. A. Sendhy Ramadhinata - C305DSX3565](https://github.com/sendhyrama)

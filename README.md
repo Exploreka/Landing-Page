@@ -1,100 +1,71 @@
-<h1 align=center>Astro + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
-
-<p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
-
-<p align=center> Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
-
-<h2 align="center"> <a target="_blank" href="https://astroplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-astroplate-netlify-app/yzx3foum3w?form_factor=desktop">Page Speed (100%)🚀</a>
-</h2>
-
-<p align=center>
-  <a href="https://github.com/withastro/astro/releases/tag/astro%402.0.11" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=ASTRO&message=2.0&color=000&logo=astro" />
-  </a>
-
-  <a href="https://github.com/zeon-studio/astroplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/astroplate" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/astroplate" alt="code size">
-
-  <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
+<p align="center">
+  <img src="assets/gh-banner.png" alt="Cannonbal Theme Banner">
 </p>
 
-## 📌 Key Features
+<br/>
+<div align="center">
+  <a href="https://twitter.com/littlesticksdev">
+  <img src="assets/twitter-badge.svg" alt="Follow Little Sticks on Twitter"/>
+</a>
+  <a href="https://littlesticks.lemonsqueezy.com/checkout/buy/ce15f246-6ffb-417d-b380-0745aeef69a9">
+    <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
+  </a>
+  <a href="https://littlesticks.dev/discord">
+    <img src="assets/discord-badge.svg" alt="Join our Discord" />
+  </a>
+  
+</div>
+<br/>
 
-- 👥 Multi-Authors
-- 🎯 Similar Posts Suggestion
-- 🔍 Search Functionality
-- 🌑 Dark Mode
-- 🏷️ Tags & Categories
-- 🔗 Netlify setting pre-configured
-- 📞 Support contact form
-- 📱 Fully responsive
-- 📝 Write and update content in Markdown / MDX
-- 💬 Disqus Comment
-- 🔳 Syntax Highlighting
+# Cannonball Splash Page 💦
 
-### 📄 15+ Pre-designed Pages
+This is a template for a modern splash page/coming soon page inspired by [this Framer template](https://coming-soon.framer.website/).
 
-- 🏠 Homepage
-- 👤 About
-- 📞 Contact
-- 👥 Authors
-- 👤 Author Single
-- 📝 Blog
-- 📝 Blog Single
-- 🚫 Custom 404
-- 💡 Elements
-- 📄 Privacy Policy
-- 🏷️ Tags
-- 🏷️ Tag Single
-- 🗂️ Categories
-- 🗂️ Category Single
-- 🔍 Search
+You can learn more about this template/theme's creation in [this YouTube video](https://www.youtube.com/watch?v=o58kSpPMuuI)
 
-## 🔗 Integrations
+## Features
 
-- astro/react
-- astro/sitemap
-- astro/tailwind
+- ✅ Modern Design
+- ✅ Email Signup Form
+- ✅ SEO friendly
+- ✅ Modern CSS Reset via Andy Bell
+- ✅ Fluid typography scaling via Utopia
+- ✅ Base and Page Layouts
+- ✅ A generic but flexible Button component
+- ✅ Automatic Sitemap
 
-## 🚀 Getting Started
+## Get Started 
 
-### 📦 Dependencies
+Customize the global site settings such as the title and description in the `src/data/settings.ts` file
 
-- astro 2.3+
-- node v18+
-- npm v9.5+
-- tailwind v3.3+
+Set your own social profile links and icons in the `src/data/socials.ts` file
 
-### 👉 Development Command
+<p>
+  <a href="https://stackblitz.com/github/littlesticks/cannonball">
+  <img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" height="36px" />
+  </a>
+</p>
 
-```
-npm run dev
-```
+OR
 
-### 👉 Build Command
+## Local Development
 
-```
-npm run build
+```sh
+npm i && npm start
 ```
 
-<!-- reporting issue -->
-## 🐞 Reporting Issues
+## Deploy
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/astroplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/astroplate/issues).
+Astro has [an in-depth guide](https://docs.astro.build/en/guides/deploy/) on how to deploy an Astro project to each service.
 
-<!-- licence -->
-## 📝 License
+## Sponsor
 
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
+If you find this theme useful, please consider donating to support the continued development of it with the link below
 
-**Code License:** Released under the [MIT](https://github.comzeon-studio/astroplate/blob/main/LICENSE) license.
+[Donate to Little Sticks](https://littlesticks.lemonsqueezy.com/checkout/buy/ce15f246-6ffb-417d-b380-0745aeef69a9)
 
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+## Support
 
-## 💻 Need Custom Development Services?
+Please feel free to reach out to us on our Discord if you have questions or file an issue on the repo.
 
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).
+[Join our Discord](https://littlesticks.dev/discord)
